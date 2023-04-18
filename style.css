@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: rgb(34, 185, 34);
+    text-align: center;
+}
+
+#add-to-do-form {
+    text-align: center;
+}
+
+.to-do-list {
+    text-align: center;
+}
